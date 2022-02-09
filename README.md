@@ -1,3 +1,7 @@
+#THE CURIOSITY CUP 2022
+##A Global SAS® Student Competition
+
+
 MUSIC DNA: a Spotify Predictive Analysis
 
 # Introduction
